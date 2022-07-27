@@ -18,11 +18,27 @@
     },
 	{
       "title": "Test tworzenia artykułu",
-      "description": "Nie będzie problemu z tobą misiek\nZawsze kiedy jestem najarany pisze\nW koncertowym busie dzisiaj siedzę trochę bliżej\nLecę do Paryża, chcę zobaczyć Mona Lisę\nAle najpierw odwiedzimy Katowice, potem Gdańsk\nPotem wrócę na ulicę, rozdam hajs\nMówiłeś, że nie masz, no to masz\nWyprawimy wielki bal, no to wio! No to wio!\nNo to wio! No to wio! No to wio!\nZnowu jedziemy na koncert do Wro\nZnowu jedziemy na koncert do Po zna nia, ej",
+      "description": "Nie będzie problemu z tobą misiek\\nZawsze kiedy jestem najarany pisze\\nW koncertowym busie dzisiaj siedzę trochę bliżej\\nLecę do Paryża, chcę zobaczyć Mona Lisę\\nAle najpierw odwiedzimy Katowice, potem Gdańsk\\nPotem wrócę na ulicę, rozdam hajs\\nMówiłeś, że nie masz, no to masz\\nWyprawimy wielki bal, no to wio! No to wio!\\nNo to wio! No to wio! No to wio!\\nZnowu jedziemy na koncert do Wro\\nZnowu jedziemy na koncert do Po zna nia, ej",
       "category": "Explication",
       "imageUrl": "http://res.cloudinary.com/dnrjkxblc/image/upload/v1657272455/qoenp2mmhz0he4gkm41u.png",
       "date": "07/08/2022",
       "id": 3
+    },
+	{
+      "title": "Test tworzenia artykułu",
+      "description": "Nie będzie problemu z tobą misiek\nZawsze kiedy jestem najarany pisze\nW koncertowym busie dzisiaj siedzę trochę bliżej\nLecę do Paryża, chcę zobaczyć Mona Lisę\nAle najpierw odwiedzimy Katowice, potem Gdańsk\nPotem wrócę na ulicę, rozdam hajs\nMówiłeś, że nie masz, no to masz\nWyprawimy wielki bal, no to wio! No to wio!\nNo to wio! No to wio! No to wio!\nZnowu jedziemy na koncert do Wro\nZnowu jedziemy na koncert do Po zna nia, ej",
+      "category": "Explication",
+      "imageUrl": "http://res.cloudinary.com/dnrjkxblc/image/upload/v1657272455/qoenp2mmhz0he4gkm41u.png",
+      "date": "07/08/2022",
+      "id": 4
+    },
+	{
+      "title": "Test tworzenia artykułu",
+      "description": "Nie będzie problemu z tobą misiek\nZawsze kiedy jestem najarany pisze\nW koncertowym busie dzisiaj siedzę trochę bliżej\nLecę do Paryża, chcę zobaczyć Mona Lisę\nAle najpierw odwiedzimy Katowice, potem Gdańsk\nPotem wrócę na ulicę, rozdam hajs\nMówiłeś, że nie masz, no to masz\nWyprawimy wielki bal, no to wio! No to wio!\nNo to wio! No to wio! No to wio!\nZnowu jedziemy na koncert do Wro\nZnowu jedziemy na koncert do Po zna nia, ej",
+      "category": "Explication",
+      "imageUrl": "http://res.cloudinary.com/dnrjkxblc/image/upload/v1657272455/qoenp2mmhz0he4gkm41u.png",
+      "date": "07/08/2022",
+      "id": 5
     }
   ]
 }
